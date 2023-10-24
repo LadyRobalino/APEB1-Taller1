@@ -14,7 +14,7 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
+        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde Git Creado por LadyRobalino");
     }
     
 }
